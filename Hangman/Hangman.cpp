@@ -38,11 +38,10 @@ int main()
 
     for (int i = 0; i < 99; i++) {
         randomWord >> wordList[i]; //Filling the array with the words in the list
-        cout << wordList[i];
+        cout << wordList[i] << endl;
     }
 
-
-
+    asdfasdfasdf
     while (tries >= 0) {
         switch (tries) {
         case 6: {
